@@ -3,7 +3,7 @@ Emojis for [aText](https://www.trankynam.com/atext/)
 
 Because we 💚 Emojis, and aText is the 💣.
 
-[Unlicensed.](http://unlicense.org/).
+[Unlicensed.](http://unlicense.org/)
 
 # How to
 Clone this repo, or download the zip, and import it into aText.
